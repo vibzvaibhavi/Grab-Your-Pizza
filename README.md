@@ -1,4 +1,5 @@
-# Grab your Pizza
+# QUICKSLICE
+
 
 ## Installation
 - React.js
